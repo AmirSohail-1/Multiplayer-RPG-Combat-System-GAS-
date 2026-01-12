@@ -1,0 +1,131 @@
+﻿30 days + [ 15 days ] 3 weeks:                                                           
+single player                                                                   
+Player: hand, arrow, sword, ghada  & ghost havan shoot                                                                      
+AI: fight vs player                                                                     
+game mode select punch or ghada:  AI vs player                  
+Mobile UI Buttons:   Fonts, Normal Buttons, Gameplay Buttons, Stats &  Health Bar etc.                  
+                    
+Smaller GameLoop                 <----------------------------------------- <<<<<<--------------------------                    
+Restart if  fail and try     again UI from start Location.                                                      
+1 Teleport to height base than , Jump on polls,                 
+2 Jump in rings                 
+3 havan shoot                               
+4 ai POLISH IF TIME PERMITS.   & RAGDOLL ON DEATH.                  
+5 VFX & SOUND , Menu                    
+            
+Bugs:----------------------                                                     
+Death Montage Issue or RagDoll                                              
+jump & move on Combo,               
+Projectile Path Left To Aim.            
+            
+Unknown bug:                    
+Sometimes melee ability doesn't work, while getting hit reaction check later.           
+                                            
+Package ToDO:           
+REmove unnecassary assets from the package. Default TPS Assets          
+            
+Equipment featuer not Bug:          
+Drop any weapon from two weapon, than only can equip new weapon.            
+                                                        
+------------------------------------------------------------------------------------------------------------------------------------------------                            
+Future updates:----------------
+urgent:                
+
+1 Add ANIMATION HOLSTER/EQUIP OR DRAWWEAPON, ANY PICKUP,
+
+2 Parkour & Obstacle:------------ [Try using MotionWrap ]                 // Only on Hand Combat  ------------                           
+  Vault                          
+          Slide  Note: Dash is done. Try using it. ---------           
+                         
+  Mantle  
+  
+3  Crouch, prone, beam balance.
+
+4 Obstacle Throwing.
+
+Later: -------------
+AnimInstance switch look using odd try to linked graph method                           
+9 AI: attack based on weapon   
+10 Capture flag or fire vs water game mode.
+------------------------------------------------------------------------------------------------------------------------------------------------    
+                             
+Features: ------------------                                        
+0 Hand, Arrow, Sword , Ghada                                        
+7 Prioritize: Ability Dodge>Block>Combo/Attack>SwapWeapon>Locomotion[Jump,Walk,Run]                                     
+8 Arrow mechanics: Draw, Aim, Release, Hit Reaction.                                        
+5 HandCombat: Punch Combo, Kick,                                        
+8 Add Stamina system for Dodge, Block, Attack.                                      
+9 Add Arrow Inventory system for Arrow Attack ability.                                      
+10 Damage system on Attack.                                     
+                                        
+RANGE WEAPON: ---------------------                             
+1 Arrow Attack                          
+2 Inventory of Arrows  or collectables.                         
+                            
+ 
+ AI :--------------------- [Try using EQS, TEST with State Machine as well ]
+ Ability to Follow, Attack, BLock,  Arrow Attack if player is Far.
+ Companion AI: With same ability.
+  
+  
+--------------------------------------------------------------------------------------------------------
+Animation List :-----------
+🔹 Basic Locomotion
+Idle
+Walk
+Run
+Crouch
+Jump
+
+
+🔹 Combat Animations [Ghada, Sword, Arrow, Punch ]
+Combat Idle
+Strafe (8 Directions) 
+Punches
+Kicks
+Rolls
+
+
+Knockdown [ 3x COMBO]
+Hit Reaction
+[Sword , Ghada ] Slash 1, 2 , 3
+Sword Block
+Death
+Draw Weapon and Holster
+
+
+Hand Combat:
+1 Combo: Punch 1 → Punch  2 → Kick
+
+🔹 Interaction
+General Pickup
+
+🔹 Spiritual / Cultural Animations                    // Only Hand Combat
+Sit Cross-legged
+Meditation
+Namaskara Pose
+
+
+🔹 Obstacle Course / Exploration                      // Only Hand Combat 
+Crawl
+Crawl to stand
+Stand to crawl
+Crawl pose
+Crawl moving FD
+Crouch 
+ 
+ 
+Balance Walk On Beam :                                // Only Hand Combat 
+Idle Pose
+Beam Walk cycle
+Stumble
+Fall
+
+🔹 Archery Range
+Draw Bow
+Aim [ Pose’s ]
+Release Arrow
+Hit Reaction
+
+Aiming Ghost when Doing Havana Shooting Arrow:       // Arrow Equip 
+

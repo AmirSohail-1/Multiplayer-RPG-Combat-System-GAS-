@@ -1,0 +1,12 @@
+﻿D Pad: instead Left joystick clickable Buttons + shape/
+
+Left & right Joystick : 
+
+Gamepad Face Buttons [AB , XY]: X[Left] Y[Up] A[Bottom] B[Right]
+
+Down Button/ Trigger: Left Trigger[LT or L2 ] , Right Trigger[RT Or R2]
+
+Top Buttons/ Gamepad Shoulder : Left Shoulder [LB or L1 ] Right Shoulder [ RB or R1 ]
+
+
+
